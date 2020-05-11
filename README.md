@@ -1,4 +1,4 @@
-# EPL-Salary-Estimator (UNDER CONSTRUCTION)
+# EPL-Salary-Estimator (UNDER CONSTRUCTION -  I need to tackle the negative prediction problem and optimize the results by implementing cross validation after each feature engineering step.)
 
 
 ## Table of Contents
